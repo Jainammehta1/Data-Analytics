@@ -17,3 +17,19 @@ I’m currently learning and working on building a strong foundation in data ana
 - **Languages:** SQL, Python  
 - **Tools:** Excel, Power BI, PYCHARM   
 - **Libraries:** pandas, numpy, matplotlib, seaborn
+
+## 📈 Future Plans
+
+I'll keep updating this repository with more:
+- Mini Projects
+- Data Cleaning Exercises
+- Visual Reports
+
+## 📬 Contact
+
+Feel free to connect or collaborate!
+
+- 📧 Email: [jainamm88@gmail.com]
+- 🌐 GitHub: [Jainammehta1](https://github.com/Jainammehta1)
+- 📍 Mumbai, India
+
