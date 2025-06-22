@@ -31,6 +31,6 @@ Feel free to connect or collaborate!
 
 - 📧 Email: [jainamm88@gmail.com]
 - 🌐 GitHub: [Jainammehta1](https://github.com/Jainammehta1)
-- - 🔗 LinkedIn: [Jainam Mehta]
+- 🔗 LinkedIn: [Jainam Mehta]
 - 📍 Mumbai, India
 
